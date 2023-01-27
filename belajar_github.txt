@@ -1,5 +1,5 @@
 Materi Belajar
-* buat akun github
 * buat minimal satu repo
 * kemudian commit
 * setelah commit maka coba hapus filenya untuk menguji/eksplorasi
+* hapus list materi pembelajaran pertama untuk eksplor
